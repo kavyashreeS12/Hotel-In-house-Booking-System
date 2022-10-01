@@ -1,0 +1,16 @@
+**Database Name: hotelms**
+
+**Developed by kavyashree S**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Login Details**
+
+username: kavyashrees / kavyashree12@gmail.com
+password: kavya12
+
+
+Username: 1db19is036 / 1db19is036@gmail.com
+Password : kavya12
+
